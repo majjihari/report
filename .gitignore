@@ -12,3 +12,5 @@
 /**/*.swp
 package-lock.json
 /.git-*/*
+config.bat
+node_modules
