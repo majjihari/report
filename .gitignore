@@ -12,3 +12,4 @@
 /**/*.swp
 package-lock.json
 /.git-*/*
+config.bat
